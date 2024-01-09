@@ -22,13 +22,6 @@ function App() {
       </header>
 
       <main>
-        <div className='containerButton'>
-          <div>
-            <p>Buscar lista</p>
-            <button>Buscar</button>
-          </div>
-        </div>
-
         <table>
           <thead>
             <tr>
