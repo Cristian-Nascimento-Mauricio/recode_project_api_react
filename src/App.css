@@ -1,0 +1,58 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+  background-color: #1e5fe6;
+
+}
+
+main {
+  margin: 50px auto 0 auto;
+  max-width: 1200px;
+  height: fit-content;
+
+}
+
+table {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+}
+
+
+tr{
+  display: flex;
+  margin: auto;
+  align-items: center;
+  
+}
+
+th {
+  margin: auto;
+  width: 14%;
+  text-align: center;
+}
+
+
+
+td{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 14%;
+  height: 50px;
+  
+}
+
+.containerButton {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 900px;
+  min-height: 100px;
+
+}
