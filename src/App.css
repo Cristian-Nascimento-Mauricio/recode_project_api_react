@@ -56,3 +56,22 @@ td{
   min-height: 100px;
 
 }
+
+input {
+  width: 200px;
+  height: 20px;
+  margin: 0 10px;
+}
+
+.containerInputs {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+
+}
+
+button {
+  max-width: 200px;
+  height: 40px;
+  margin: 10px;
+}
